@@ -5,13 +5,19 @@
   font-family: 'Roboto', sans-serif;
   box-sizing: border-box;
 }
+
 body {
   background-color: #737373;
 }
+
 .container {
-	max-width: 1280px;
-	margin: 0 auto;
+  max-width: 1280px;
+  margin: 0 auto;
 }
-img, object, video, embed {
-	max-width: 100%;
+
+img,
+object,
+video,
+embed {
+  max-width: 100%;
 }
