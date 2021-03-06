@@ -32,7 +32,6 @@ class AirQuality extends Component {
         zoom: map.getZoom().toFixed(2),
       });
     });
-
   }
 
   render() {
