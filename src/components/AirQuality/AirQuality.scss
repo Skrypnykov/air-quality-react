@@ -1,0 +1,66 @@
+.air-q {
+  padding: 50px 0;
+
+  &-title {
+    text-align: center;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 41px;
+    color: #fff;
+    margin-bottom: 30px;
+  }
+
+  &-map-state {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 12px;
+    background-color: #404040;
+    color: #ffffff;
+    padding: 6px;
+    font-weight: bold;
+  }
+
+  &-map {
+    height: 560px;
+    margin: 0 0 42px;
+    position: relative;
+
+    &-state {
+      position: absolute;
+      top: 0;
+      left: 0;
+      margin: 12px;
+      background-color: #404040;
+      color: #ffffff;
+      padding: 6px;
+      font-weight: bold;
+    }
+  }
+
+  &-text {
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+    color: #fff;
+  }
+}
+
+.mapboxgl-control-container {
+  display: none;
+}
+
+@media (max-width: 414px) {
+  .air-q {
+
+    &-map {
+      margin: 0 5px 10px;
+    }
+
+    &-text {
+      font-size: 18px;
+      line-height: 22px;
+      margin: 0 10px;
+    }
+  } 
+}
