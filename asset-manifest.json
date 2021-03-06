@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/air-quality-react/static/css/main.3b17a65c.chunk.css",
-    "main.js": "/air-quality-react/static/js/main.6b81cd22.chunk.js",
-    "main.js.map": "/air-quality-react/static/js/main.6b81cd22.chunk.js.map",
+    "main.css": "/air-quality-react/static/css/main.43e74792.chunk.css",
+    "main.js": "/air-quality-react/static/js/main.ba433386.chunk.js",
+    "main.js.map": "/air-quality-react/static/js/main.ba433386.chunk.js.map",
     "runtime-main.js": "/air-quality-react/static/js/runtime-main.57621bfa.js",
     "runtime-main.js.map": "/air-quality-react/static/js/runtime-main.57621bfa.js.map",
     "static/css/2.d353dbe6.chunk.css": "/air-quality-react/static/css/2.d353dbe6.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.eb178d90.chunk.js.map": "/air-quality-react/static/js/2.eb178d90.chunk.js.map",
     "index.html": "/air-quality-react/index.html",
     "static/css/2.d353dbe6.chunk.css.map": "/air-quality-react/static/css/2.d353dbe6.chunk.css.map",
-    "static/css/main.3b17a65c.chunk.css.map": "/air-quality-react/static/css/main.3b17a65c.chunk.css.map",
+    "static/css/main.43e74792.chunk.css.map": "/air-quality-react/static/css/main.43e74792.chunk.css.map",
     "static/js/2.eb178d90.chunk.js.LICENSE.txt": "/air-quality-react/static/js/2.eb178d90.chunk.js.LICENSE.txt",
     "static/media/city_planing.jpg": "/air-quality-react/static/media/city_planing.10700345.jpg",
     "static/media/energetics.jpg": "/air-quality-react/static/media/energetics.985be459.jpg",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.57621bfa.js",
     "static/css/2.d353dbe6.chunk.css",
     "static/js/2.eb178d90.chunk.js",
-    "static/css/main.3b17a65c.chunk.css",
-    "static/js/main.6b81cd22.chunk.js"
+    "static/css/main.43e74792.chunk.css",
+    "static/js/main.ba433386.chunk.js"
   ]
 }
