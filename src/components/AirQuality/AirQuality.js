@@ -2,8 +2,7 @@ import React, { Component } from "react";
 import mapboxgl from "mapbox-gl";
 import "./AirQuality.scss";
 
-mapboxgl.accessToken =
-  "pk.eyJ1Ijoic2tyeXBueWtvdiIsImEiOiJja2ZsYTdkbzEwZGdqMnFwc2dyMHBnZTl0In0.XQ6qUunUpxoUThIMrGLbPQ";
+mapboxgl.accessToken = "pk.eyJ1Ijoic2tyeXBueWtvdiIsImEiOiJja2ZsYTdkbzEwZGdqMnFwc2dyMHBnZTl0In0.XQ6qUunUpxoUThIMrGLbPQ";
 
 class AirQuality extends Component {
   constructor(props) {
