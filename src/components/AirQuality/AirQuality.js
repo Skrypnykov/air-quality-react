@@ -23,6 +23,16 @@ class AirQuality extends Component {
       scrollZoom: this.state.scrollZoom,
     });
 
+    map.addControl(new mapboxgl.NavigationControl());
+    
+    var marker1 = new mapboxgl.Marker({ color: 'red' })
+      .setLngLat([51.01, 56.06])
+    .addTo(map);
+
+    var marker2 = new mapboxgl.Marker({ color: 'green' })
+      .setLngLat([48.79, 56.52])
+    .addTo(map);
+
     map.on("move", () => {
       this.setState({
         lng: map.getCenter().lng.toFixed(4),
